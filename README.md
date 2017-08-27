@@ -1,2 +1,2 @@
-# umbrella-shop-0.0.1
+# umbrella-shop
 An umbrella shop GUI for purchasing umbrellas of different colours.
